@@ -1,7 +1,7 @@
 # CSharp
 
-C#のお勉強。なう：[今やってるページへのリンク](https://ufcpp.net/study/csharp/st_compile.html "プログラムの作成・実行")  
-参考：[参考サイトへのリンク](https://ufcpp.net/ "++c++; // 未確認飛行 C")
+C#のお勉強。なう：[プログラムの作成・実行](https://ufcpp.net/study/csharp/st_compile.html)  
+参考：[++c++; // 未確認飛行 C](https://ufcpp.net/)
 
 ## デバッグの実行
 
